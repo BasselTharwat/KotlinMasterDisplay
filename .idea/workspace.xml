@@ -6,10 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2799b7bf-189e-423d-9880-051dc001ddac" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicSyntaxAndDataTypes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicSyntaxAndDataTypes.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ControlFlow.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ControlFlow.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/FunctionsAndLambdas.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/FunctionsAndLambdas.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +36,7 @@
   "keyToString": {
     "Kotlin.BasicSyntaxAndDataTypesKt.executor": "Run",
     "Kotlin.ControlFlowKt.executor": "Run",
+    "Kotlin.FunctionsAndLambdasKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
