@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2799b7bf-189e-423d-9880-051dc001ddac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ClassesAndObjects/Car.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassesAndObjects/Motorcycle.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassesAndObjects/Person.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassesAndObjects/Vehicle.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExtensionsAndOperators/ComplexNumber.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExtensionsAndOperators/ExtensionsAndOperators.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NullSafety.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FunctionsAndLambdas.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/FunctionsAndLambdas.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -43,9 +40,12 @@
     "Kotlin.BasicSyntaxAndDataTypesKt.executor": "Run",
     "Kotlin.CarKt.executor": "Run",
     "Kotlin.CollectionsKt.executor": "Run",
+    "Kotlin.ComplexNumberKt.executor": "Run",
     "Kotlin.ControlFlowKt.executor": "Run",
+    "Kotlin.ExtensionsAndOperatorsKt.executor": "Run",
     "Kotlin.FunctionsAndLambdasKt.executor": "Run",
     "Kotlin.MotorcycleKt.executor": "Run",
+    "Kotlin.NullSafetyKt.executor": "Run",
     "Kotlin.PersonKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -53,6 +53,11 @@
     "onboarding.tips.debug.path": "C:/Users/lenovo01/IdeaProjects/Task1/src/Main.kt"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo01\IdeaProjects\Task1\src\ExtensionsAndOperators" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
